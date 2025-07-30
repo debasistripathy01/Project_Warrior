@@ -28,8 +28,5 @@ Achieved **92% accuracy** with CNN-LSTM model.
 - `notebooks/` → step-by-step analysis
 - `src/` → reusable Python scripts
 - `models/` → trained model files
-
-## 🔮 Future Work
-
 - Deploy as a cloud API
 - Extend to real-time seizure prediction
